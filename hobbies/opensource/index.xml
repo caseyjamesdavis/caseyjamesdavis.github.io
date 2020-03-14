@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://caseyjamesdavis.github.io/hobbies/opensource/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://caseyjamesdavis.github.io/hobbies/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I got started in open source</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/opensource/howopensource/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/opensource/howopensource/</guid>
+      <description>My journey into open source began with the web browser Firefox. When I first tried it in 2005, I was really impressed with how well it worked compared to Internet Explorer. This is what put the concept of open source on my radar.
+A few months after, that I gave Ubuntu a go on my first laptop and I couldn&amp;rsquo;t believe how little ram was used, and how much better file transfer over USB worked in GNU/Linux.</description>
+    </item>
+    
+    <item>
+      <title>Why I tend to use open source stuff</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/opensource/whyopensource/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/opensource/whyopensource/</guid>
+      <description>When possible, I gravitate towards open source options when choosing software or hardware.
+I prefer to use open source stuff for the following reasons:
+ I don&amp;rsquo;t have to deal with license keys There are usually multiple options - I can try them all and pick the one I like best My data isn&amp;rsquo;t held hostage by a proprietary format At work, I don&amp;rsquo;t need to ask permission to use a new software If it breaks there is usually more information available to aid in the fix There is often better online support Using, installing, and maintaining it is a challenge and this forces me to learn new things I can participate in improvements  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://caseyjamesdavis.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://caseyjamesdavis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DIY 3 Element Yagi Antenna for 2m VHF</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</guid>
+      <description>I decided to build an simple Yagi antenna for my APRS I-gate.
+I ended up on the yagi design because it helps lower the noise floor at my location by reducing the signal from a broadcast FM located nearby.
+I simulated the antenna using a program called xnec2c.
+ </description>
+    </item>
+    
+    <item>
+      <title>measure swr with an sdr</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</guid>
+      <description>different stuff goes here</description>
+    </item>
+    
+    <item>
+      <title>How I got started in open source</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/opensource/howopensource/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/opensource/howopensource/</guid>
+      <description>My journey into open source began with the web browser Firefox. When I first tried it in 2005, I was really impressed with how well it worked compared to Internet Explorer. This is what put the concept of open source on my radar.
+A few months after, that I gave Ubuntu a go on my first laptop and I couldn&amp;rsquo;t believe how little ram was used, and how much better file transfer over USB worked in GNU/Linux.</description>
+    </item>
+    
+    <item>
+      <title>Last Day with Diesel</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/poetry/dieselremembered/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/poetry/dieselremembered/</guid>
+      <description>I wrote this after the death of our beloved Great Dane name Diesel.
+ Last Day with Diesel free of collar and of leash he paused to keep the pace,
+we watched with apprehension fearing pain upon his face
+he stood and looked around him that gray and misty day,
+in a field, his domain, that had just been cleared of hay
+he paused for a moment, while the breeze brought him a smell,</description>
+    </item>
+    
+    <item>
+      <title>Why I tend to use open source stuff</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/opensource/whyopensource/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/opensource/whyopensource/</guid>
+      <description>When possible, I gravitate towards open source options when choosing software or hardware.
+I prefer to use open source stuff for the following reasons:
+ I don&amp;rsquo;t have to deal with license keys There are usually multiple options - I can try them all and pick the one I like best My data isn&amp;rsquo;t held hostage by a proprietary format At work, I don&amp;rsquo;t need to ask permission to use a new software If it breaks there is usually more information available to aid in the fix There is often better online support Using, installing, and maintaining it is a challenge and this forces me to learn new things I can participate in improvements  </description>
+    </item>
+    
+    <item>
+      <title>Quotes I like</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/quotes/quotes/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/quotes/quotes/</guid>
+      <description>&amp;lsquo;It ain&amp;rsquo;t what you don&amp;rsquo;t know that gets you into trouble. It&amp;rsquo;s what you know for sure that just ain&amp;rsquo;t so.&#39; - &amp;lsquo;The Big Short&amp;rsquo;
+&amp;lsquo;For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.&#39; - Personal observations on the reliability of the Shuttle by R. P. Feynman
+&amp;lsquo;A delayed game is eventually good, but a rushed game is forever bad&amp;rsquo; - Shigeru Miyamoto</description>
+    </item>
+    
+    <item>
+      <title>Off Past Canaan</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/poetry/off_past_canaan/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/poetry/off_past_canaan/</guid>
+      <description>I wrote this for my grandmother&amp;rsquo;s memorial service. Both of my grandparents enjoyed snowmobiling from the late 60&amp;rsquo;s until their passing. The above photo and many childhood memories were inspiration for this poem.
+ Off Past Canaan The clock chimed high from the southern wall,
+signaling the end of the dinner call.
+The television is off, the suit is found,
+the wood stove is stuffed so it won&amp;rsquo;t go out.</description>
+    </item>
+    
+  </channel>
+</rss>

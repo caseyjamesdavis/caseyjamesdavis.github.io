@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://caseyjamesdavis.github.io/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://caseyjamesdavis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amateur Radio</title>
+      <link>https://caseyjamesdavis.github.io/categories/amateur-radio/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/amateur-radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://caseyjamesdavis.github.io/categories/open-source/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>https://caseyjamesdavis.github.io/categories/poetry/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://caseyjamesdavis.github.io/categories/quotes/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/quotes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

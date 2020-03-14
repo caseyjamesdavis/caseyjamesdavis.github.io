@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amateur Radio on </title>
+    <link>https://caseyjamesdavis.github.io/categories/amateur-radio/</link>
+    <description>Recent content in Amateur Radio on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://caseyjamesdavis.github.io/categories/amateur-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DIY 3 Element Yagi Antenna for 2m VHF</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</guid>
+      <description>I decided to build an simple Yagi antenna for my APRS I-gate.
+I ended up on the yagi design because it helps lower the noise floor at my location by reducing the signal from a broadcast FM located nearby.
+I simulated the antenna using a program called xnec2c.
+ </description>
+    </item>
+    
+    <item>
+      <title>measure swr with an sdr</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</guid>
+      <description>different stuff goes here</description>
+    </item>
+    
+  </channel>
+</rss>
