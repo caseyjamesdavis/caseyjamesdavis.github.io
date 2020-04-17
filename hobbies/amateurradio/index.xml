@@ -17,7 +17,7 @@
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_measure_vswr/</guid>
-      <description>I was able to measure the VSWR of my Yagi antenna using an noise source, directional coupler, and RTL-SDR.
+      <description>I was able to measure the VSWR of my Yagi antenna using a random noise source, directional coupler, and RTL-SDR.
  A program called rtl_power_fftw was used to measure the noise signal reflected back to the RTL-SDR by the antenna. The VSWR was calculated and plotted in Python Jupyter Notebook. It shows a VSWR of about 1.5 over most of the 2m band.
  </description>
     </item>

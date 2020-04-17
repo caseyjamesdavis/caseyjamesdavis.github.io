@@ -17,8 +17,8 @@
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/opensource/howopensource/</guid>
-      <description>My journey into open source began with the web browser Firefox. When I first tried it in 2005, I was really impressed with how well it worked compared to Internet Explorer. This is what put the concept of open source on my radar.
-A few months after, that I gave Ubuntu a go on my first laptop and I couldn&amp;rsquo;t believe how little ram was used, and how much better file transfer over USB worked in GNU/Linux.</description>
+      <description>My journey into open source began with looking for an alternative to the Internet Explorer web browser. When I first learned of and tried Mozilla Firefox, I was really impressed with how fast it felt and that there was an entire ecosystem of customizations that could be applied to improve its functionality. This program is what put the concept of open source software in my head.
+A few months after that I gave the Ubuntu operating system a try on my first laptop and I was astounded at how little RAM was used, and how much better file transfer over USB worked in GNU/Linux.</description>
     </item>
     
     <item>
@@ -27,9 +27,8 @@ A few months after, that I gave Ubuntu a go on my first laptop and I couldn&amp;
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/opensource/whyopensource/</guid>
-      <description>When possible, I gravitate towards open source options when choosing software or hardware.
-I prefer to use open source stuff for the following reasons:
- I don&amp;rsquo;t have to deal with license keys There are usually multiple options - I can try them all and pick the one I like best My data isn&amp;rsquo;t held hostage by a proprietary format At work, I don&amp;rsquo;t need to ask permission to use a new software If it breaks there is usually more information available to aid in the fix There is often better online support Using, installing, and maintaining it is a challenge and this forces me to learn new things I can participate in improvements  </description>
+      <description>When possible, I gravitate towards open source options when choosing software or hardware for the following reasons:
+ I don&amp;rsquo;t have to deal with licenses or keys There are usually multiple options - I can try them all and pick the one I like best My data isn&amp;rsquo;t held hostage by a proprietary format At work, I don&amp;rsquo;t need to ask permission to use a piece of software If it breaks there is usually more information available to aid in the fix There is often better support or at leat more information on how it was built or functions Using, installing, and maintaining it is a challenge and this forces me to learn new things I can participate in improvements  </description>
     </item>
     
   </channel>
