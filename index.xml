@@ -17,29 +17,40 @@
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/books/applesoft_basic/</guid>
-      <description>A Touch of Applesoft BASIC came with the Apple IIc Plus that I excitedly received on Christmas day in 1988. Due to games like Oregon Trail and Think Quick! I am certain that I didn&amp;rsquo;t even open the book until several years later. Before this book I did not understand that it was possible for a normal person to write a computer program and run it on a computer.
- There was a reference in the back of the book that pointed to Applesoft BASIC Programmer&amp;rsquo;s Reference Manual and I decided that this was a must-have since it contained about 250 additional pages on the subject.</description>
+      <description>A Touch of Applesoft BASIC came with the Apple IIc Plus that I excitedly received early in the mornning on Christmas day in 1988. Due to games like Oregon Trail and Think Quick! I am certain that I didn&amp;rsquo;t even open it until several years later. Before reading this book I did not understand that it was practical for a normal person to write a program and run it on a computer.</description>
     </item>
     
     <item>
-      <title>DIY 3 Element Yagi Antenna for 2m VHF</title>
-      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</link>
-      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Getting Started in Electronics</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/books/getting_started_in_electronics/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</guid>
-      <description>I decided to build an simple Yagi antenna for my APRS I-gate.
-I ended up on the yagi design because it helps lower the noise floor at my location by reducing the signal from a broadcast FM located nearby.
-I simulated the antenna using a program called xnec2c.
+      <guid>https://caseyjamesdavis.github.io/hobbies/books/getting_started_in_electronics/</guid>
+      <description>I aquired Getting Started in Electronics at the local Radio Shack in the mid 1990&amp;rsquo;s. It taught me the difference between series and parallel circuits and how different electrical components function. Mr. Mim&amp;rsquo;s handwritten text and diagrams made it less intimidating to learn about this complex subject.
+The last chapter in the book has many projects and I successfully built the one called &amp;lsquo;Mini Radio Transmitter&amp;rsquo; which simply sent an adjustable tone to a nearby radio.</description>
+    </item>
+    
+    <item>
+      <title>How to Measure VSWR of an Antenna Using a RTL-SDR</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_measure_vswr/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_measure_vswr/</guid>
+      <description>I was able to measure the VSWR of my Yagi antenna using an noise source, directional coupler, and RTL-SDR.
+ A program called rtl_power_fftw was used to measure the noise signal reflected back to the RTL-SDR by the antenna. The VSWR was calculated and plotted in Python Jupyter Notebook. It shows a VSWR of about 1.5 over most of the 2m band.
  </description>
     </item>
     
     <item>
-      <title>measure swr with an sdr</title>
-      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</link>
+      <title>Simulate a DIY Yagi Antenna for 2m VHF</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_simulation/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</guid>
-      <description>different stuff goes here</description>
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_simulation/</guid>
+      <description>I decided to build an simple Yagi antenna for my APRS I-gate.
+I ended up on the yagi design because it helps lower the noise floor at my location by reducing the signal from a broadcast FM located nearby.
+I simulated the antenna using a program called xnec2c.
+ </description>
     </item>
     
     <item>

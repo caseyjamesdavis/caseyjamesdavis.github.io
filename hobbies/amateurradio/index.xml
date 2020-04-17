@@ -6,30 +6,32 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://caseyjamesdavis.github.io/hobbies/amateurradio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>DIY 3 Element Yagi Antenna for 2m VHF</title>
-      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</link>
-      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <title>How to Measure VSWR of an Antenna Using a RTL-SDR</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_measure_vswr/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content/</guid>
-      <description>I decided to build an simple Yagi antenna for my APRS I-gate.
-I ended up on the yagi design because it helps lower the noise floor at my location by reducing the signal from a broadcast FM located nearby.
-I simulated the antenna using a program called xnec2c.
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_measure_vswr/</guid>
+      <description>I was able to measure the VSWR of my Yagi antenna using an noise source, directional coupler, and RTL-SDR.
+ A program called rtl_power_fftw was used to measure the noise signal reflected back to the RTL-SDR by the antenna. The VSWR was calculated and plotted in Python Jupyter Notebook. It shows a VSWR of about 1.5 over most of the 2m band.
  </description>
     </item>
     
     <item>
-      <title>measure swr with an sdr</title>
-      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</link>
+      <title>Simulate a DIY Yagi Antenna for 2m VHF</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_simulation/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/content2/</guid>
-      <description>different stuff goes here</description>
+      <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_simulation/</guid>
+      <description>I decided to build an simple Yagi antenna for my APRS I-gate.
+I ended up on the yagi design because it helps lower the noise floor at my location by reducing the signal from a broadcast FM located nearby.
+I simulated the antenna using a program called xnec2c.
+ </description>
     </item>
     
   </channel>
