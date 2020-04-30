@@ -6,10 +6,28 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://caseyjamesdavis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>History</title>
+      <link>https://caseyjamesdavis.github.io/categories/history/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walden, VT</title>
+      <link>https://caseyjamesdavis.github.io/categories/walden-vt/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/walden-vt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Amateur Radio</title>
@@ -26,6 +44,24 @@
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://caseyjamesdavis.github.io/categories/art/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Colors</title>
+      <link>https://caseyjamesdavis.github.io/categories/water-colors/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/water-colors/</guid>
       <description></description>
     </item>
     
