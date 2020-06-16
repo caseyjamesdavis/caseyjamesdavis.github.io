@@ -6,10 +6,19 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://caseyjamesdavis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://caseyjamesdavis.github.io/categories/quotes/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/categories/quotes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>History</title>
@@ -80,15 +89,6 @@
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/categories/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quotes</title>
-      <link>https://caseyjamesdavis.github.io/categories/quotes/</link>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://caseyjamesdavis.github.io/categories/quotes/</guid>
       <description></description>
     </item>
     

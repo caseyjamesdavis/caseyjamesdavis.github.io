@@ -6,10 +6,22 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://caseyjamesdavis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quotes I like</title>
+      <link>https://caseyjamesdavis.github.io/hobbies/quotes/quotes/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://caseyjamesdavis.github.io/hobbies/quotes/quotes/</guid>
+      <description>&amp;lsquo;It ain&amp;rsquo;t what you don&amp;rsquo;t know that gets you into trouble. It&amp;rsquo;s what you know for sure that just ain&amp;rsquo;t so.&#39; - &amp;lsquo;The Big Short&amp;rsquo;
+&amp;lsquo;A poor workman blames his tools&amp;rsquo; - British Proverb
+&amp;lsquo;For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.&#39; - Personal observations on the reliability of the Shuttle by R. P. Feynman
+&amp;lsquo;A delayed game is eventually good, but a rushed game is forever bad&amp;rsquo; - Shigeru Miyamoto</description>
+    </item>
     
     <item>
       <title>A 200 Year Old Buckle and Button</title>
@@ -50,7 +62,7 @@ Cover
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/books/getting_started_in_electronics/</guid>
-      <description>I aquired Getting Started in Electronics at the local Radio Shack in the mid 1990&amp;rsquo;s. It taught me the difference between series and parallel circuits and how different electrical components function. Mr. Mim&amp;rsquo;s handwritten text and diagrams made it less intimidating to learn about this complex subject.
+      <description>I aquired Getting Started in Electronics at the local Radio Shack in the mid 1990&amp;rsquo;s. It taught me the difference between series and parallel circuits and how different electrical components function. Mr. Mims&amp;rsquo; handwritten text and diagrams made it less intimidating to learn about this complex subject.
 The last chapter in the book has many projects and I successfully built the one called &amp;lsquo;Mini Radio Transmitter&amp;rsquo; which simply sent an adjustable tone to a nearby radio.</description>
     </item>
     
@@ -119,17 +131,6 @@ he paused for a moment, while the breeze brought him a smell,</description>
       <guid>https://caseyjamesdavis.github.io/hobbies/opensource/whyopensource/</guid>
       <description>When possible, I gravitate towards open source options when choosing software or hardware for the following reasons:
  I don&amp;rsquo;t have to deal with licenses or keys There are usually multiple options - I can try them all and pick the one I like best My data isn&amp;rsquo;t held hostage by a proprietary format At work, I don&amp;rsquo;t need to ask permission to use a piece of software If it breaks there is usually more information available to aid in the fix There is often better support or at least more information on how it was built or functions Using, installing, and maintaining it is a challenge and this forces me to learn new things I can participate in improvements  </description>
-    </item>
-    
-    <item>
-      <title>Quotes I like</title>
-      <link>https://caseyjamesdavis.github.io/hobbies/quotes/quotes/</link>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://caseyjamesdavis.github.io/hobbies/quotes/quotes/</guid>
-      <description>&amp;lsquo;It ain&amp;rsquo;t what you don&amp;rsquo;t know that gets you into trouble. It&amp;rsquo;s what you know for sure that just ain&amp;rsquo;t so.&#39; - &amp;lsquo;The Big Short&amp;rsquo;
-&amp;lsquo;For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.&#39; - Personal observations on the reliability of the Shuttle by R. P. Feynman
-&amp;lsquo;A delayed game is eventually good, but a rushed game is forever bad&amp;rsquo; - Shigeru Miyamoto</description>
     </item>
     
     <item>
