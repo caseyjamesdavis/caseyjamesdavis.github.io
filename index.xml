@@ -13,9 +13,9 @@
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/quotes/quotes/</guid>
-      <description>&amp;lsquo;It ain&amp;rsquo;t what you don&amp;rsquo;t know that gets you into trouble. It&amp;rsquo;s what you know for sure that just ain&amp;rsquo;t so.&#39; - &amp;lsquo;The Big Short&amp;rsquo;
+      <description>&amp;lsquo;It ain&amp;rsquo;t what you don&amp;rsquo;t know that gets you into trouble. It&amp;rsquo;s what you know for sure that just ain&amp;rsquo;t so.&amp;rsquo; - &amp;lsquo;The Big Short&amp;rsquo;
 &amp;lsquo;A poor workman blames his tools&amp;rsquo; - British Proverb
-&amp;lsquo;For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.&#39; - Personal observations on the reliability of the Shuttle by R. P. Feynman
+&amp;lsquo;For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.&amp;rsquo; - Personal observations on the reliability of the Shuttle by R. P. Feynman
 &amp;lsquo;A delayed game is eventually good, but a rushed game is forever bad&amp;rsquo; - Shigeru Miyamoto</description>
     </item>
     
@@ -29,7 +29,7 @@
 Both items appear to be from the late 1700&amp;rsquo;s and were likely lost by the first generation of settlers in Walden, Vermont.
 It is my intention to donate these items to the Walden Historical Committee.
 Front View
- Rear View   The button is 30 [mm] in diameter and is made of a brass alloy called tombac.</description>
+Rear View The button is 30 [mm] in diameter and is made of a brass alloy called tombac.</description>
     </item>
     
     <item>
@@ -40,8 +40,7 @@ Front View
       <guid>https://caseyjamesdavis.github.io/hobbies/dirtfishin/bayley_hazen_military_road/</guid>
       <description>I have always been fascinated by this Revolutionary War era military road. Below is a description of the Walden portion of the route written by Olive &amp;amp; Maurice Eddy in 1958/59.
 The Bayley-Hazen Military Road - Town of Walden
-Cover
- </description>
+Cover</description>
     </item>
     
     <item>
@@ -59,7 +58,7 @@ Cover
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/books/getting_started_in_electronics/</guid>
-      <description>I aquired Getting Started in Electronics at the local Radio Shack in the mid 1990&amp;rsquo;s. It taught me the difference between series and parallel circuits and how different electrical components function. Mr. Mims&#39; handwritten text and diagrams made it less intimidating to learn about this complex subject.
+      <description>I aquired Getting Started in Electronics at the local Radio Shack in the mid 1990&amp;rsquo;s. It taught me the difference between series and parallel circuits and how different electrical components function. Mr. Mims&amp;rsquo; handwritten text and diagrams made it less intimidating to learn about this complex subject.
 The last chapter in the book has many projects and I successfully built the one called &amp;lsquo;Mini Radio Transmitter&amp;rsquo; which simply sent an adjustable tone to a nearby radio.</description>
     </item>
     
@@ -70,8 +69,7 @@ The last chapter in the book has many projects and I successfully built the one 
       
       <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_measure_vswr/</guid>
       <description>I was able to measure the VSWR of my Yagi antenna using a random noise source, directional coupler, and RTL-SDR.
- A program called rtl_power_fftw was used to measure the noise signal reflected back to the RTL-SDR by the antenna. The VSWR was calculated and plotted using Python in a Jupyter Notebook. It shows a VSWR of about 1.5 over most of the 2m band.
- </description>
+A program called rtl_power_fftw was used to measure the noise signal reflected back to the RTL-SDR by the antenna. The VSWR was calculated and plotted using Python in a Jupyter Notebook. It shows a VSWR of about 1.5 over most of the 2m band.</description>
     </item>
     
     <item>
@@ -80,8 +78,7 @@ The last chapter in the book has many projects and I successfully built the one 
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/art/water_color_birch_tree_2020/</guid>
-      <description>The result of an attempt at watercolors.
- </description>
+      <description>The result of an attempt at watercolors.</description>
     </item>
     
     <item>
@@ -92,8 +89,7 @@ The last chapter in the book has many projects and I successfully built the one 
       <guid>https://caseyjamesdavis.github.io/hobbies/amateurradio/diy_2m_yagi_simulation/</guid>
       <description>I decided to build an simple Yagi antenna for my APRS I-gate.
 I ended up on the yagi design because it helps lower the noise floor at my location by reducing the signal from a broadcast FM station located nearby.
-I simulated the antenna using a program called xnec2c.
- </description>
+I simulated the antenna using a program called xnec2c.</description>
     </item>
     
     <item>
@@ -103,7 +99,7 @@ I simulated the antenna using a program called xnec2c.
       
       <guid>https://caseyjamesdavis.github.io/hobbies/art/dieselremembered/</guid>
       <description>I wrote this after the death of our beloved Great Dane named Diesel.
- Last Day with Diesel free of collar and of leash he paused to keep the pace,
+Last Day with Diesel free of collar and of leash he paused to keep the pace,
 we watched with apprehension fearing pain upon his face
 he stood and looked around him that gray and misty day,
 in a field, his domain, that had just been cleared of hay
@@ -117,7 +113,7 @@ he paused for a moment, while the breeze brought him a smell,</description>
       
       <guid>https://caseyjamesdavis.github.io/hobbies/opensource/whyopensource/</guid>
       <description>When possible, I gravitate towards open source options when choosing software or hardware for the following reasons:
- I don&amp;rsquo;t have to deal with licenses or keys There are usually multiple options - I can try them all and pick the one I like best My data isn&amp;rsquo;t held hostage by a proprietary format At work, I don&amp;rsquo;t need to ask permission to use a piece of software If it breaks there is usually more information available to aid in the fix There is often better support or at least more information on how it was built or functions Using, installing, and maintaining it is a challenge and this forces me to learn new things I can participate in improvements Easier to understand the results of a given program Can have the same software on all of my computers  </description>
+I don&amp;rsquo;t have to deal with licenses or keys There are usually multiple options - I can try them all and pick the one I like best My data isn&amp;rsquo;t held hostage by a proprietary format At work, I don&amp;rsquo;t need to ask permission to use a piece of software If it breaks there is usually more information available to aid in the fix There is often better support or at least more information on how it was built or functions Using, installing, and maintaining it is a challenge and this forces me to learn new things I can participate in improvements Easier to understand the results of a given program Can have the same software on all of my computers </description>
     </item>
     
     <item>
@@ -138,7 +134,7 @@ I&amp;rsquo;ve been using GNU/Linux daily since about 2006 and I now use open so
       
       <guid>https://caseyjamesdavis.github.io/hobbies/art/off_past_canaan/</guid>
       <description>I wrote this for my grandmother&amp;rsquo;s memorial service. Both of my grandparents enjoyed snowmobiling from the late 60&amp;rsquo;s until their passing. The above photo and many childhood memories were inspiration for this poem.
- Off Past Canaan The clock chimed high from the southern wall,
+Off Past Canaan The clock chimed high from the southern wall,
 signaling the end of the dinner call.
 The television is off, the suit is found,
 the wood stove is stuffed so it won&amp;rsquo;t go out.</description>
