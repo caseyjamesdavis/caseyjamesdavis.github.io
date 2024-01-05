@@ -6,25 +6,21 @@
     <description>Recent content in Books on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://caseyjamesdavis.github.io/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://caseyjamesdavis.github.io/categories/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Touch of Applesoft BASIC</title>
       <link>https://caseyjamesdavis.github.io/hobbies/books/applesoft_basic/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://caseyjamesdavis.github.io/hobbies/books/applesoft_basic/</guid>
       <description>A Touch of Applesoft BASIC came with the Apple IIc Plus that I excitedly received early in the AM on Christmas day in 1988. Due to games like Oregon Trail and Think Quick! I am certain that I didn&amp;rsquo;t even open it until several years later. Before reading this book I did not understand that it was practical for a normal person to write a program and run it on a computer.</description>
     </item>
-    
     <item>
       <title>Getting Started in Electronics</title>
       <link>https://caseyjamesdavis.github.io/hobbies/books/getting_started_in_electronics/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://caseyjamesdavis.github.io/hobbies/books/getting_started_in_electronics/</guid>
-      <description>I aquired Getting Started in Electronics at the local Radio Shack in the mid 1990&amp;rsquo;s. It taught me the difference between series and parallel circuits and how different electrical components function. Mr. Mims&amp;rsquo; handwritten text and diagrams made it less intimidating to learn about this complex subject.
-The last chapter in the book has many projects and I successfully built the one called &amp;lsquo;Mini Radio Transmitter&amp;rsquo; which simply sent an adjustable tone to a nearby radio.</description>
+      <description>I aquired Getting Started in Electronics at the local Radio Shack in the mid 1990&amp;rsquo;s. It taught me the difference between series and parallel circuits and how different electrical components function. Mr. Mims&amp;rsquo; handwritten text and diagrams made it less intimidating to learn about this complex subject.&#xA;The last chapter in the book has many projects and I successfully built the one called &amp;lsquo;Mini Radio Transmitter&amp;rsquo; which simply sent an adjustable tone to a nearby radio.</description>
     </item>
-    
   </channel>
 </rss>
