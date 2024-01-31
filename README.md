@@ -1,5 +1,3 @@
 personal website
 
-made-it-myself
-
-used html and bootstrap
+made-it-myself using html and bootstrap
