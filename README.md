@@ -1,3 +1,1 @@
-my personal website
-
-made-it-myself using html and bootstrap
+my personal website with simple html and bootstrap
